@@ -5,7 +5,6 @@ Urifoodie is a social media app for food lovers to share and discover meals and 
 <li>Chat & Explore: Connect with friends and find new recipes.</li>
 <li>Save & Favorite: Keep a digital recipe notebook.</li>
 <li>Notifications & Profile: Stay updated and personalize your experience.</li>
-<li>Notifications & Profile: Stay updated and personalize your experience.</li>
 <li>Calendar: Plan meals with a monthly list.</li>
   
 </ol>
